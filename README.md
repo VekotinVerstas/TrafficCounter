@@ -15,7 +15,7 @@ The sensor software is a native Linux binary built on Xojo IDE v2017r1.1
 
 ## Change Log
 
-### 0.9.0  
+### 0.9.0 Beta  
 Development version with LCD and GPIO -support.
 
 ## Links
