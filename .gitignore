@@ -9,3 +9,16 @@ Debug*/Debug*\ Libs
 *.rbuistate
 *.xojo_uistate
 *.obsolete
+src/TrafficCounterPi.xojo_resources
+build/.DS_Store
+build/0.9/TrafficCounterPi
+build/0.9/TrafficCounterPi Libs/libc++.so.1
+build/0.9/TrafficCounterPi Libs/XojoConsoleFrameworkARM.so
+src/.DS_Store
+src/App.xojo_code
+.DS_Store
+.DS_Store
+src/Build Automation.xojo_code
+src/App.xojo_code
+src/TrafficCounterPi.xojo_project
+src/TrafficCounterPi.xojo_resources
